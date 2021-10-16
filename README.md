@@ -1,4 +1,4 @@
-##飞桨常规赛：中文新闻文本标题分类 9月第4名方案
+## 飞桨常规赛：中文新闻文本标题分类 9月第4名方案
 
 ### 一.赛题介绍：
 
@@ -11,7 +11,8 @@
 
 ### 三.AI Studio项目地址：
 https://aistudio.baidu.com/aistudio/projectdetail/2399755
-**主要参考：**https://aistudio.baidu.com/aistudio/projectdetail/2345384
+
+主要参考： https://aistudio.baidu.com/aistudio/projectdetail/2345384
 
 ### 四.运行说明：
 直接运行baseline.iypnb文件即可
