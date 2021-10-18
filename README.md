@@ -7,7 +7,7 @@
 比赛传送门：https://aistudio.baidu.com/aistudio/competition/detail/107/0/introduction
 ### 二.项目简介：
 
-飞桨常规赛：中文新闻文本标题分类9月第1名方案，分数0.9+，基于PaddleNLP通过预训练模型的微调完成新闻14分类模型的训练与优化，并利用训练好的模型对测试数据进行预测并生成提交结果文件。最后主要通过伪标签和结果融合trick对效果进行进一步的提升。
+飞桨常规赛：中文新闻文本标题分类9月第4名方案，分数0.89+，基于PaddleNLP通过预训练模型的微调完成新闻14分类模型的训练与优化，并利用训练好的模型对测试数据进行预测并生成提交结果文件。
 
 ### 三.AI Studio项目地址：
 https://aistudio.baidu.com/aistudio/projectdetail/2399755
